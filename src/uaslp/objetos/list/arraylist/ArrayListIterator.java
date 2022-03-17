@@ -1,5 +1,4 @@
 package uaslp.objetos.list.arraylist;
-
 import uaslp.objetos.list.Iterator;
 
 public class ArrayListIterator <T> implements Iterator<T> {
